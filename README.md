@@ -13,6 +13,9 @@ squaremap (formerly known as Pl3xMap) is a minimalistic and lightweight live wor
 
 If, like me, you have no real need for 3D views, the novelty of Dynmap and Bluemap have worn off, and you're ready for something actually usable for navigation without all the heavy bulk or slow renders then this is the plugin for you.
 
+## Version Support
+Currently supports 1.18
+
 ## Features
 
 * Ultra fast render times. Get your map viewable today, not next week!
